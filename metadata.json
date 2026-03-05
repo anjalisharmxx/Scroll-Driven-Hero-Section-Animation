@@ -1,0 +1,5 @@
+{
+  "name": "Scroll-Driven Hero Animation",
+  "description": "A modern scroll-driven hero animation using React, Tailwind CSS, and GSAP.",
+  "requestFramePermissions": []
+}
